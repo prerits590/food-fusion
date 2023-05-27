@@ -310,7 +310,10 @@ font-size: 1.3rem;
 }
 /* .testimonial-section */
 .testimonial-section {
-  background-color: var(--secondry-color);
+  background-image: url("../images/bg/bg3.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  
 }
 .testimonial-section .carousel-item {
   margin-top: 3rem;
